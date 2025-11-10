@@ -4,8 +4,8 @@
 ->A fun two-player Tic Tac Toe game built using Python's Tkinter GUI library.
 
  🧠 Features
-1. Clean and simple graphical interface  
-2.Two-player mode  
+1. Clean and simple graphical interface using Tkinter  
+2. Two-player mode  
 3. Automatic winner/draw detection  
 4.Reset button to start a new game
 
